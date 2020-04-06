@@ -1,0 +1,2 @@
+class QuotePageLocator:
+    Quote='div.quote'
